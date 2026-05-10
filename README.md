@@ -1,2 +1,2 @@
 # TallyQuizBuilder
-Auto build MCQ quizzes on Tally forms from Google sheets.
+A Google App Script to auto build MCQ quizzes on Tally forms from Google sheets.
