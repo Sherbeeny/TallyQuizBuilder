@@ -1,6 +1,6 @@
 # TallyQuizBuilder
 
-> Turn any Google Sheet into a scored, multi-page quiz on [Tally](https://c.sherbeeny.com/tally) — with randomized answers, automatic score calculation, and a personalized results page.
+> Turn a Google Sheet into a scored, multi-page quiz on [Tally](https://c.sherbeeny.com/tally) — with randomized answers, automatic score calculation, and a personalized results page.
 
 ---
 
